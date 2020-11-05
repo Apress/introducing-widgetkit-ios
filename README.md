@@ -1,9 +1,9 @@
 # Apress Source Code
 
-This repository accompanies [*Introducing WidgetKit for iOS*](https://rd.springer.com/video/10.1007/%isbn%) by Stewart Lynch (Apress, 2020).
+This repository accompanies [*Introducing WidgetKit for iOS*](https://rd.springer.com/video/10.1007/978-1-4842-6700-4) by Stewart Lynch (Apress, 2020).
 
 [comment]: #cover
-![Cover image](%isbn%.jpg)
+![Cover image](9781484267004.jpg)
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
